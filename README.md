@@ -1,5 +1,13 @@
 # UNLDSR
-
+<!-- TOC -->
+* [UNLDSR](#unldsr)
+  * [Abstract](#abstract)
+  * [Results](#results)
+    * [PSNR](#psnr)
+    * [SSIM](#ssim)
+  * [Bibtex](#bibtex)
+  * [Links](#links)
+<!-- TOC -->
 ## Abstract
 Classical variational methods for solving image processing problems are more interpretable and flexible than
 pure deep learning approaches, but their performance is limited by the use of rigid priors. Deep unfolding
@@ -28,3 +36,11 @@ model shows to better preserve image geometry while being robust to noise.
 | 5     | 0,716 | 0,781 | 0,805 | 0,822 | **0,826** |
 | 10    | 0,595 | 0,738 | 0,739 | 0,758 | **0,775** |
 | 25    | 0,342 | 0,597 | 0,624 | 0,648 | **0,654** |
+
+## Bibtex
+Awaiting publication
+
+## Links
+- Paper
+- Institution: [Universitat de les Illes Balears](https://www.uib.eu/) [TAMI](https://www.uib.eu/research/structures/groups/grup/TAMI/)
+- [License](./LICENSE)
