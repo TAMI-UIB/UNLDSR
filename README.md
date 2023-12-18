@@ -42,5 +42,6 @@ Awaiting publication
 
 ## Links
 - Paper
+- Conference: [VISAPP 2024](https://visapp.scitevents.org/)
 - Institution: [Universitat de les Illes Balears](https://www.uib.eu/) [TAMI](https://www.uib.eu/research/structures/groups/grup/TAMI/)
 - [License](./LICENSE)
