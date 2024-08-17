@@ -41,7 +41,7 @@ model shows to better preserve image geometry while being robust to noise.
 Awaiting publication
 
 ## Links
-- Paper
+- [Paper](https://doi.org/10.5220/0012395400003660)
 - Conference: [VISAPP 2024](https://visapp.scitevents.org/)
 - Institution: [Universitat de les Illes Balears](https://www.uib.eu/) [TAMI](https://www.uib.eu/research/structures/groups/grup/TAMI/)
 - [License](./LICENSE)
