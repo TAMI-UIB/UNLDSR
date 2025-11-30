@@ -45,3 +45,8 @@ Awaiting publication
 - Conference: [VISAPP 2024](https://visapp.scitevents.org/)
 - Institution: [Universitat de les Illes Balears](https://www.uib.eu/) [TAMI](https://www.uib.eu/research/structures/groups/grup/TAMI/)
 - [License](./LICENSE)
+
+---
+## Acknowledgements
+
+This work was funded by MCIN/AEI/10.13039/501100011033/ and by the European Union NextGenerationEU/PRTR via the MaLiSat project TED2021-132644B-I00.
